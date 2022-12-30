@@ -1,4 +1,4 @@
-objectid,filename,title,Aardvark,illustrator,type,format,language
+objectid,filename,title,card-type,illustrator,type,format,language
 onr001,netrunner_aardvark.jpg,Aardvark,Upgrade;,Fellwalker & Tolen,Image;StillImage,image/jpeg,en
 onr002,netrunner_access_through_alpha.jpg,Access through Alpha,Resource;Base Link,Mark Collen,Image;StillImage,image/jpeg,en
 onr003,netrunner_access_to_arasaka.jpg,Access to Arasaka,Resource;Base Link,Robert McLees,Image;StillImage,image/jpeg,en
