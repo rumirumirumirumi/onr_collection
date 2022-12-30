@@ -34,7 +34,7 @@ author: rumirumirumirumi
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: onr-metadata 
+metadata: onr_metadata 
 
 ##########
 # Site/Organization Branding 
